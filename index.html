@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mozelle's Scientific Calculator</title>
+</head>
+<body>
+
+    <section>
+        <div class="container">
+            <div id="input">
+                
+            </div>
+            <div class="buttons">
+    
+                <div class="button hidden"></div>
+                <div class="button hidden"></div>
+                <div class="button">&#37;</div>
+                <div class="button">(</div>
+                <div class="button">)</div>
+                <div class="button reset" onclick="clear()">CE</div>
+                <div class="button operation">/</div>
+                
+
+                <div class="button" onclick="inverse()">Inv</div>
+                <div class="button" onclick="sin()">sin</div>
+                <div class="button" onclick="naturalLog()">ln</div>
+                <div class="button number" value="7">7</div>
+                <div class="button number">8</div>
+                <div class="button number">9</div>
+                <div class="button operation">*</div>
+                
+
+                <div class="button" id="pi" onclick="pi()">&pi;</div>
+                <div class="button" onclick="cos()">cos</div>
+                <div class="button" onclick="log()">log</div>
+                <div class="button number">4</div>
+                <div class="button number">5</div>
+                <div class="button number">6</div>
+                <div class="button operation">-</div>
+                
+
+                <div class="button" onclick="e()">e</div>
+                <div class="button" onclick="tan()">tan</div>
+                <div class="button" onclick="sqrt()">&radic;</div>
+                <div class="button number">1</div>
+                <div class="button number">2</div>
+                <div class="button number">3</div>
+                <div class="button operation">+</div>
+                
+
+                <div class="button" onclick="exp()">EXP</div>
+                <div class="button" onclick="squared()">x&sup2;</div>
+                <div class="button">x^</div>
+                <div class="button">.</div>
+                <div class="button number">0</div>
+                <div class="button delete" onclick="deleted()">&larr;</div>
+                <div class="button" id="equal" onclick="display.value=eval(display.value)">=</div>
+                
+            </div>
+        </div>
+    </section>
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>
