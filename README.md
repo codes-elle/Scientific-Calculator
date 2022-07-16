@@ -35,6 +35,7 @@
   <p align="center">
     Scientific Calcultor with basic mathematical operations and includes exponents, logs, and trig functions.
     <br />
+
     <a href="https://github.com/codes-elle/Scientific-Calculator"><strong>Explore the docs »</strong></a>
     <br />
     <br />
