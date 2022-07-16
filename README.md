@@ -22,7 +22,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/mozellegy/]
+[![LinkedIn][linkedin-shield]]
 
 
 
@@ -33,19 +33,19 @@
     
   </a>
 
-<h3 align="center">Mozelle's Digital Clock</h3>
+<h3 align="center">Mozelle's Scientific Calculator</h3>
 
   <p align="center">
-    A digital clock that tells the current date and time. 
+    Scientific Calcultor with basic mathematical operations and includes exponents, logs, and trig functions.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/codes-elle/Scientific-Calculator"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/codes-elle/Scientific-Calculator/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/codes-elle/Scientific-Calculator/issues">Request Feature</a>
   </p>
 </div>
 
