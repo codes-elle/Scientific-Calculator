@@ -17,10 +17,10 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Forks][forks-shield]](github.com/codes-elle/Scientific-Calculator/forks)
+[![Stargazers][stars-shield]](github.com/codes-elle/Scientific-Calculator/stars)
+[![Issues][issues-shield]](github.com/codes-elle/Scientific-Calculator/issues)
+[![LinkedIn][linkedin-shield]](linkedin.com/in/mozellegy)
 
 
 <!-- PROJECT LOGO -->
@@ -60,9 +60,6 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-      </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -85,7 +82,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![JavaScript][https://www.javascript.com/]][JavaScript-url]
+* HTML
+* CSS
+* JavaScript
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -94,17 +93,13 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get started, you will only need an HTML, CSS, and JavaScript File. Most of the coding will be done with JavaScript and very minimal HTML. 
+To get started, you will only need an HTML, CSS, and JavaScript File. Most of the coding will be done with HTML and JavaScript. Styling up to your discretion.
 
-Make sure to use id when working in JavaScript. You need to declare two functions: one for the date and one for the time. Both functions will use get Methods to obtain the data. 
+* The HTML document will utilize buttons and will be formed with a grid-template-column in CSS. 
+* Some buttons with scientific functions or math operations should utilize the onlick event attribute. Such as the clear button, equal button, sqrt button, etc. 
+* Within JavaScript 
+* A switch statement
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -140,8 +135,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- RESOURCES -->
 ## Resources
 
-* []()
-* []()
+* [Free pictures](https://www.freepik.com/)
+* [Official JavaScript Documentation - Math](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
 * []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
